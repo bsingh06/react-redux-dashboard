@@ -1,3 +1,4 @@
+// API response code mapped to its text 
 const statusCodes = {
     '401': {
         text: "Unauthorized"
